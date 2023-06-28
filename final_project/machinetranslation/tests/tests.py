@@ -1,4 +1,4 @@
-import translator
+from machinetranslation import translator
 import unittest
 
 class TestTranslator(unittest.TestCase):
